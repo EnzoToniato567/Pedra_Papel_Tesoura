@@ -211,6 +211,7 @@ body {
 
 .regras-button:hover {
     color: #7641cc;
+    cursor: pointer;
 }
 
 .gameplay {
